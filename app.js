@@ -42,7 +42,7 @@ async function main() {
 
         console.log("✅ MongoDB Atlas Connected");
     } catch (err) {
-        console.error("❌ DB connection error:", err);
+        console.error("DB connection error:", err);
     }
 }
 
