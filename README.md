@@ -1,4 +1,4 @@
-# WanderLust 🌍
+# WanderLust 
 
 A full-stack travel listing web application inspired by Airbnb, where users can explore, create, edit, and review travel destinations and accommodations.
 
